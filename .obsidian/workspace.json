@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "29504dc423d2e564",
+        "id": "0e13c8a1883daae6",
         "type": "tabs",
         "children": [
           {
-            "id": "cfc385473acc0aa4",
+            "id": "e75b251f6de11999",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "Персонажи/test.md",
-                "staged": false,
-                "hash": "4213e31c529ae8e950beb15ed702749a587c5f1c"
+                "mode": "source",
+                "source": false
               }
             }
           }
         ]
       },
       {
-        "id": "0e13c8a1883daae6",
+        "id": "ce63136f0027f880",
         "type": "tabs",
         "children": [
           {
@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Персонажи/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Персонажи/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Персонажи/test.md"
+              }
             }
           },
           {
@@ -176,7 +180,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "786e0aa0495c6a10",
+  "active": "e75b251f6de11999",
   "lastOpenFiles": [
     "Персонажи/test.md",
     "Без названия.canvas",
