@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epica/Понятия/Могущество.md",
-                "mode": "preview",
+                "file": "Персонажи/test.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Epica/Понятия/Могущество.md",
+                "file": "Персонажи/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Epica/Понятия/Могущество.md",
+                "file": "Персонажи/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Epica/Понятия/Могущество.md"
+                "file": "Персонажи/test.md"
               }
             }
           },
@@ -171,8 +171,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "51acd5c9ae091a25",
+  "active": "202b28eaaa7e7884",
   "lastOpenFiles": [
+    "Персонажи/Обсидиановый скелет.md",
+    "Персонажи/test.md",
     "Epica/Понятия/Могущество.md",
     "Epica/Понятия/Бездна.md",
     "Epica/Понятия/Автономный мир.md",
@@ -183,7 +185,6 @@
     "Epica/Сюжет/Пролог.md",
     "Epica/Сюжет/Начало (Новое начало, или же все начинают с низов).md",
     "Epica/Авалон.md",
-    "Персонажи/Обсидиановый скелет.md",
     "Без названия.canvas",
     "2024-06-28.md",
     "Epica/Сюжет",
@@ -201,7 +202,6 @@
     "().md",
     "Epica/Понятия",
     "[[Бездна]].md",
-    "Без названия.md",
     "Без названия",
     "Персонажи",
     "Epica"
