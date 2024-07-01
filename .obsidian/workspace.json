@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Epica/Понятия/Могущество.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Epica/Понятия/Могущество.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,15 +140,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Epica/Понятия/Могущество.md"
+              }
+            }
+          },
+          {
+            "id": "ff018fc963c94b0a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,7 +171,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "61c638d349830fc1",
+  "active": "51acd5c9ae091a25",
   "lastOpenFiles": [
     "Epica/Понятия/Могущество.md",
     "Epica/Понятия/Бездна.md",
