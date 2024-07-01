@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "16c39f0511feaab5",
+        "id": "29504dc423d2e564",
         "type": "tabs",
         "children": [
           {
-            "id": "202b28eaaa7e7884",
+            "id": "cfc385473acc0aa4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "Персонажи/test.md",
-                "mode": "source",
-                "source": false
+                "staged": false,
+                "hash": "4213e31c529ae8e950beb15ed702749a587c5f1c"
               }
             }
           }
         ]
       },
       {
-        "id": "29504dc423d2e564",
+        "id": "0e13c8a1883daae6",
         "type": "tabs",
         "children": [
           {
@@ -142,7 +142,15 @@
             }
           },
           {
-            "id": "ff018fc963c94b0a",
+            "id": "dfc2f0005b6fefaa",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "786e0aa0495c6a10",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -150,11 +158,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,9 +176,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "61c638d349830fc1",
+  "active": "786e0aa0495c6a10",
   "lastOpenFiles": [
     "Персонажи/test.md",
+    "Без названия.canvas",
     "Персонажи/Обсидиановый скелет.md",
     "Epica/Понятия/Могущество.md",
     "Epica/Понятия/Бездна.md",
@@ -181,7 +191,6 @@
     "Epica/Сюжет/Пролог.md",
     "Epica/Сюжет/Начало (Новое начало, или же все начинают с низов).md",
     "Epica/Авалон.md",
-    "Без названия.canvas",
     "2024-06-28.md",
     "Epica/Сюжет",
     "Epica/Пантеон.md",
@@ -197,7 +206,6 @@
     "[[Тетра]].md",
     "().md",
     "Epica/Понятия",
-    "[[Бездна]].md",
     "Без названия",
     "Персонажи",
     "Epica"
