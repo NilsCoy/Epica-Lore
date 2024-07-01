@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "9247a9e72334a48f",
+    "type": "split",
+    "children": [
+      {
+        "id": "16c39f0511feaab5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "202b28eaaa7e7884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epica/Понятия/Могущество.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "29504dc423d2e564",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61c638d349830fc1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbad48ca2d4d42dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "142e2b1f11733caa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51acd5c9ae091a25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "717560c5bb8a7101",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4c7dba6b5b9d9d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8202f4381b5ac8e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d68532664c39ed39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ccb7b6d1fbb9419",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a15445df844dbcf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed0ef0535f2a9763",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7cbaf12f01646dad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "61c638d349830fc1",
+  "lastOpenFiles": [
+    "Epica/Понятия/Могущество.md",
+    "Epica/Понятия/Бездна.md",
+    "Epica/Понятия/Автономный мир.md",
+    "Epica/Понятия/Мертвый мир.md",
+    "Epica/Понятия/Управляемый мир.md",
+    "Epica/Мироустройство.md",
+    "Epica/Сюжет/Основной сюжет.md",
+    "Epica/Сюжет/Пролог.md",
+    "Epica/Сюжет/Начало (Новое начало, или же все начинают с низов).md",
+    "Epica/Авалон.md",
+    "Персонажи/Обсидиановый скелет.md",
+    "Без названия.canvas",
+    "2024-06-28.md",
+    "Epica/Сюжет",
+    "Epica/Пантеон.md",
+    "Epica/Без названия.md",
+    "Epica/Правители.md",
+    "Epica/Подземное царство.md",
+    "Epica/Тетра.md",
+    "Epica/Epica.md",
+    "[[Боги.md",
+    "Боги Epica.md",
+    "Epica/Совет ужаса.md",
+    "Epica/Боги Epica.md",
+    "[[Тетра]].md",
+    "().md",
+    "Epica/Понятия",
+    "[[Бездна]].md",
+    "Без названия.md",
+    "Без названия",
+    "Персонажи",
+    "Epica"
+  ]
+}

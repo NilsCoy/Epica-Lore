@@ -1,0 +1,44 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "WSPsjda-U0NWAN0RdEhSO",
+      "name": "Epica",
+      "value": "#ff0000"
+    },
+    {
+      "id": "rm3xp_1LV3hcE32ZMa1W3",
+      "name": "Персонажи",
+      "value": "#980cca"
+    },
+    {
+      "id": "YDd7BEYRjl6Jq7s5X7kgm",
+      "name": "Понятия",
+      "value": "#2bd115"
+    },
+    {
+      "id": "_xg_CLBw635rVmHICVgbs",
+      "name": "Сюжет",
+      "value": "#e89117"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Epica",
+      "color": "WSPsjda-U0NWAN0RdEhSO"
+    },
+    {
+      "path": "Персонажи",
+      "color": "rm3xp_1LV3hcE32ZMa1W3"
+    },
+    {
+      "path": "Epica/Понятия",
+      "color": "YDd7BEYRjl6Jq7s5X7kgm"
+    },
+    {
+      "path": "Epica/Сюжет",
+      "color": "_xg_CLBw635rVmHICVgbs"
+    }
+  ]
+}
