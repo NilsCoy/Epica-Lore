@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Персонажи/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Персонажи/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Персонажи/test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,10 +167,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "202b28eaaa7e7884",
+  "active": "61c638d349830fc1",
   "lastOpenFiles": [
-    "Персонажи/Обсидиановый скелет.md",
     "Персонажи/test.md",
+    "Персонажи/Обсидиановый скелет.md",
     "Epica/Понятия/Могущество.md",
     "Epica/Понятия/Бездна.md",
     "Epica/Понятия/Автономный мир.md",
