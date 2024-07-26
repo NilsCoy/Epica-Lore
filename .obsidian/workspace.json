@@ -11,8 +11,24 @@
             "id": "e75b251f6de11999",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Epica/Сюжет/Новое начало, или же все начинают с низов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cda3c686daa43f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epica/Разумные расы.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Epica/Сюжет/Новое начало, или же все начинают с низов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Epica/Сюжет/Новое начало, или же все начинают с низов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Epica/Сюжет/Новое начало, или же все начинают с низов.md"
+              }
             }
           },
           {
@@ -174,31 +194,31 @@
   },
   "active": "e75b251f6de11999",
   "lastOpenFiles": [
+    "Epica/Сюжет/Пролог.md",
+    "Epica/Сюжет/Новое начало, или же все начинают с низов.md",
+    "Epica/Сюжет/Основной сюжет.md",
+    "Epica/Правители.md",
+    "Epica/Разумные расы.md",
+    "Epica/Совет ужаса.md",
+    "Epica/Epica.md",
+    "Epica/Тетра.md",
+    "Epica/Пантеон.md",
+    "Epica/Подземное царство.md",
+    "Epica/Понятия/Автономный мир.md",
+    "Epica/Понятия/Бездна.md",
+    "Epica/Понятия/Мертвый мир.md",
+    "Epica/Понятия/Могущество.md",
+    "Epica/Понятия/Управляемый мир.md",
+    "Персонажи/Обсидиановый скелет.md",
+    "Epica/Мироустройство.md",
+    "Epica/Авалон.md",
     "Документ Microsoft Office Word.docx",
     "Персонажи/test.md",
     "Без названия.canvas",
-    "Персонажи/Обсидиановый скелет.md",
-    "Epica/Понятия/Могущество.md",
-    "Epica/Понятия/Бездна.md",
-    "Epica/Понятия/Автономный мир.md",
-    "Epica/Понятия/Мертвый мир.md",
-    "Epica/Понятия/Управляемый мир.md",
-    "Epica/Мироустройство.md",
-    "Epica/Сюжет/Основной сюжет.md",
-    "Epica/Сюжет/Пролог.md",
-    "Epica/Сюжет/Начало (Новое начало, или же все начинают с низов).md",
-    "Epica/Авалон.md",
     "2024-06-28.md",
     "Epica/Сюжет",
-    "Epica/Пантеон.md",
-    "Epica/Без названия.md",
-    "Epica/Правители.md",
-    "Epica/Подземное царство.md",
-    "Epica/Тетра.md",
-    "Epica/Epica.md",
     "[[Боги.md",
     "Боги Epica.md",
-    "Epica/Совет ужаса.md",
     "Epica/Боги Epica.md",
     "[[Тетра]].md",
     "().md",
