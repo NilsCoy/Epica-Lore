@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epica/Сюжет/Новое начало, или же все начинают с низов.md",
+                "file": "Epica/Сюжет/Новое начало.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Epica/Сюжет/Новое начало, или же все начинают с низов.md",
+                "file": "Epica/Сюжет/Новое начало.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Epica/Сюжет/Новое начало, или же все начинают с низов.md",
+                "file": "Epica/Сюжет/Новое начало.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Epica/Сюжет/Новое начало, или же все начинают с низов.md"
+                "file": "Epica/Сюжет/Новое начало.md"
               }
             }
           },
@@ -183,7 +183,7 @@
   "active": "e75b251f6de11999",
   "lastOpenFiles": [
     "Epica/Сюжет/Основной сюжет.md",
-    "Epica/Сюжет/Новое начало, или же все начинают с низов.md",
+    "Epica/Сюжет/Новое начало.md",
     "Epica/Поселения.md",
     "Epica/Подземное царство.md",
     "Epica/Сюжет/Пролог.md",
