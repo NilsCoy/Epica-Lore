@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5cda3c686daa43f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Epica/Разумные расы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       },
@@ -194,23 +182,25 @@
   },
   "active": "e75b251f6de11999",
   "lastOpenFiles": [
-    "Epica/Сюжет/Пролог.md",
-    "Epica/Сюжет/Новое начало, или же все начинают с низов.md",
     "Epica/Сюжет/Основной сюжет.md",
-    "Epica/Правители.md",
+    "Epica/Сюжет/Новое начало, или же все начинают с низов.md",
+    "Epica/Поселения.md",
+    "Epica/Подземное царство.md",
+    "Epica/Сюжет/Пролог.md",
+    "Epica/Языческие боги.md",
+    "Epica/Мироустройство.md",
     "Epica/Разумные расы.md",
+    "Epica/Правители.md",
     "Epica/Совет ужаса.md",
     "Epica/Epica.md",
     "Epica/Тетра.md",
     "Epica/Пантеон.md",
-    "Epica/Подземное царство.md",
     "Epica/Понятия/Автономный мир.md",
     "Epica/Понятия/Бездна.md",
     "Epica/Понятия/Мертвый мир.md",
     "Epica/Понятия/Могущество.md",
     "Epica/Понятия/Управляемый мир.md",
     "Персонажи/Обсидиановый скелет.md",
-    "Epica/Мироустройство.md",
     "Epica/Авалон.md",
     "Документ Microsoft Office Word.docx",
     "Персонажи/test.md",
@@ -221,7 +211,6 @@
     "Боги Epica.md",
     "Epica/Боги Epica.md",
     "[[Тетра]].md",
-    "().md",
     "Epica/Понятия",
     "Без названия",
     "Персонажи",
