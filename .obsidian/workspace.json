@@ -6,6 +6,7 @@
       {
         "id": "0e13c8a1883daae6",
         "type": "tabs",
+        "dimension": 50.077399380804955,
         "children": [
           {
             "id": "e75b251f6de11999",
@@ -13,7 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epica/Сюжет/Новое начало.md",
+                "file": "Epica/Сюжет/Основной сюжет.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15ff358a732b6fdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epica/Поселения.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,6 +37,7 @@
       {
         "id": "ce63136f0027f880",
         "type": "tabs",
+        "dimension": 49.922600619195045,
         "children": [
           {
             "id": "61c638d349830fc1",
@@ -101,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Epica/Сюжет/Новое начало.md",
+                "file": "Epica/Сюжет/Основной сюжет.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Epica/Сюжет/Новое начало.md",
+                "file": "Epica/Сюжет/Основной сюжет.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Epica/Сюжет/Новое начало.md"
+                "file": "Epica/Сюжет/Основной сюжет.md"
               }
             }
           },
@@ -182,19 +196,21 @@
   },
   "active": "e75b251f6de11999",
   "lastOpenFiles": [
-    "Epica/Сюжет/Основной сюжет.md",
-    "Epica/Мироустройство.md",
-    "Epica/Совет ужаса.md",
-    "Epica/Epica.md",
     "Epica/Сюжет/Новое начало.md",
+    "Epica/Сюжет/Основной сюжет.md",
     "Epica/Поселения.md",
-    "Epica/Подземное царство.md",
     "Epica/Сюжет/Пролог.md",
-    "Epica/Языческие боги.md",
-    "Epica/Разумные расы.md",
     "Epica/Правители.md",
-    "Epica/Тетра.md",
+    "Epica/Необычные предметы.md",
     "Epica/Пантеон.md",
+    "Epica/Подземное царство.md",
+    "Epica/Разумные расы.md",
+    "Epica/Понятия/Стигма.md",
+    "Epica/Совет ужаса.md",
+    "Epica/Языческие боги.md",
+    "Epica/Мироустройство.md",
+    "Epica/Epica.md",
+    "Epica/Тетра.md",
     "Epica/Понятия/Автономный мир.md",
     "Epica/Понятия/Бездна.md",
     "Epica/Понятия/Мертвый мир.md",
@@ -209,8 +225,6 @@
     "Epica/Сюжет",
     "[[Боги.md",
     "Боги Epica.md",
-    "Epica/Боги Epica.md",
-    "[[Тетра]].md",
     "Epica/Понятия",
     "Без названия",
     "Персонажи",
