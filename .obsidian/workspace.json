@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Правила написания диалогов.md",
+                "file": "Epica/Сюжет/Основной сюжет.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Правила написания диалогов.md",
+                "file": "Epica/Сюжет/Основной сюжет.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Правила написания диалогов.md",
+                "file": "Epica/Сюжет/Основной сюжет.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Правила написания диалогов.md"
+                "file": "Epica/Сюжет/Основной сюжет.md"
               }
             }
           },
@@ -184,17 +184,17 @@
   },
   "active": "09501a340fc6954f",
   "lastOpenFiles": [
-    "Epica/Сюжет/Основной сюжет.md",
-    "Правила написания диалогов.md",
     "Epica/Сюжет/Пролог.md",
+    "Epica/Пантеон.md",
+    "Epica/Разумные расы.md",
+    "Epica/Правители.md",
+    "Правила написания диалогов.md",
+    "Epica/Сюжет/Основной сюжет.md",
     "Epica/Сюжет/Новое начало.md",
     "Epica/Понятия/Могущество.md",
     "Epica/Поселения.md",
-    "Epica/Правители.md",
     "Epica/Необычные предметы.md",
-    "Epica/Пантеон.md",
     "Epica/Подземное царство.md",
-    "Epica/Разумные расы.md",
     "Epica/Понятия/Стигма.md",
     "Epica/Совет ужаса.md",
     "Epica/Языческие боги.md",
