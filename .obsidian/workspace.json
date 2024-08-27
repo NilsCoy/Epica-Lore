@@ -6,7 +6,6 @@
       {
         "id": "0e13c8a1883daae6",
         "type": "tabs",
-        "dimension": 50.077399380804955,
         "children": [
           {
             "id": "09501a340fc6954f",
@@ -14,27 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epica/Сюжет/Основной сюжет.md",
+                "file": "Персонажи/Обсидиановый скелет.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ce63136f0027f880",
-        "type": "tabs",
-        "dimension": 49.922600619195045,
-        "children": [
-          {
-            "id": "61c638d349830fc1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
             }
           }
         ]
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Epica/Сюжет/Основной сюжет.md",
+                "file": "Персонажи/Обсидиановый скелет.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Epica/Сюжет/Основной сюжет.md",
+                "file": "Персонажи/Обсидиановый скелет.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Epica/Сюжет/Основной сюжет.md"
+                "file": "Персонажи/Обсидиановый скелет.md"
               }
             }
           },
@@ -184,34 +166,34 @@
   },
   "active": "09501a340fc6954f",
   "lastOpenFiles": [
-    "Epica/Сюжет/Пролог.md",
+    "Epica/Диалоги/Фрирест.md",
+    "Epica/Диалоги/Вудленд.md",
+    "Epica/Диалоги/Пролог-Обучение.md",
+    "Epica/Совет ужаса.md",
+    "Epica/Понятия/Мертвый мир.md",
+    "Правила написания диалогов.md",
+    "Персонажи/Обсидиановый скелет.md",
     "Epica/Пантеон.md",
+    "Epica/Поселения.md",
     "Epica/Разумные расы.md",
     "Epica/Правители.md",
-    "Правила написания диалогов.md",
-    "Epica/Сюжет/Основной сюжет.md",
-    "Epica/Сюжет/Новое начало.md",
     "Epica/Понятия/Могущество.md",
-    "Epica/Поселения.md",
     "Epica/Необычные предметы.md",
     "Epica/Подземное царство.md",
     "Epica/Понятия/Стигма.md",
-    "Epica/Совет ужаса.md",
     "Epica/Языческие боги.md",
     "Epica/Мироустройство.md",
     "Epica/Epica.md",
     "Epica/Тетра.md",
     "Epica/Понятия/Автономный мир.md",
     "Epica/Понятия/Бездна.md",
-    "Epica/Понятия/Мертвый мир.md",
     "Epica/Понятия/Управляемый мир.md",
-    "Персонажи/Обсидиановый скелет.md",
     "Epica/Авалон.md",
     "Документ Microsoft Office Word.docx",
     "Персонажи/test.md",
     "Без названия.canvas",
     "2024-06-28.md",
-    "Epica/Сюжет",
+    "Epica/Диалоги",
     "[[Боги.md",
     "Epica/Понятия",
     "Без названия",
